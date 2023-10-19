@@ -88,7 +88,7 @@ If you find this resource helpful, please consider to star this repository and c
 
 | Important Dataset | Year | Task | 
 | -------- | -------- | -------- |
-|[20 Newsgroups](http://qwone.com/∼jason/20Newsgroups/)| 1995 | Text Classification, Topic Modeling |
+|[20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)| 1995 | Text Classification, Topic Modeling |
 |[Multi-Domain Sentiment](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/) | 2007 | Sentiment Analysis, Text Classification|
 |[Cross-Lingual Sentiment](https://zenodo.org/record/3251672)| 2010 | Cross-Lingual Sentiment Analysis
 |[Office](https://faculty.cc.gatech.edu/~judy/domainadapt/)+[Caltech](https://www.vision.caltech.edu/datasets/)|2010| Object Recognition, Image Classification|
