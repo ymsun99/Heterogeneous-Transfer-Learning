@@ -1,7 +1,7 @@
 # Heterogeneous-Transfer-Learning
-This is a comprehensive list of **Heterogeneous Transfer Learning Methods** with their resource (paper, code and data). Please let us know if you find out mistakes or have any suggestions by email: YIS108@pitt.edu.  
+This is a comprehensive list of **Heterogeneous Transfer Learning Methods** with corresponding resources such as research papers, code, and datasets. Please feel free to contact us at YIS108@pitt.edu if you discover any errors or have any suggestions.
 
-🌟 The organization of papers refers to our survey: [**A survey of Heterogeneous Transfer Learning**](https://arxiv.org/abs/2310.08459). 
+🌟 The organization of papers aligns with our survey: [**A survey of Heterogeneous Transfer Learning**](https://arxiv.org/abs/2310.08459). 
 
 ![structure](pics/structure.jpg)
 
@@ -76,5 +76,27 @@ If you find this resource helpful, please consider to star this repository and c
 
 ![parameter-tuning](pics/para_finetune.jpg)
 
+1. <u>resizer</u>:**"Learning to resize images for computer vision tasks."** Talebi, Hossein, and Peyman Milanfar. Proceedings of the IEEE/CVF international conference on computer vision. 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Talebi_Learning_To_Resize_Images_for_Computer_Vision_Tasks_ICCV_2021_paper.pdf)] [[code](https://github.com/sayakpaul/Learnable-Image-Resizing)]
+2. <u>ImageBERT</u>:**"ImageBERT: Cross-modal pre-training with large-scale weak-supervised image-text data."** Qi, Di, et al.  arXiv preprint arXiv:2001.07966 (2020). [[paper](https://arxiv.org/pdf/2001.07966.pdf)]
+3. <u>ProteinChat</u>:**"ProteinChat: Towards Achieving ChatGPT-Like Functionalities on Protein 3D Structures."** Guo, Han, et al. 2023. [[paper](https://www.techrxiv.org/articles/preprint/ProteinChat_Towards_Achieving_ChatGPT-Like_Functionalities_on_Protein_3D_Structures/23120606)] [[code](https://github.com/UCSD-AI4H/proteinchat)]
+4. <u>ViT</u>:**"An image is worth 16x16 words: Transformers for image recognition at scale."** Dosovitskiy, Alexey, et al. ICLR 2021. [[paper](https://openreview.net/pdf?id=YicbFdNTTy)] [[code](https://github.com/google-research/vision_transformer)]
+5. <u>VL-BERT</u>:**"VL-BERT: Pre-training of generic visual-linguistic representations."** Su, Weijie, et al. ICLR 2020. [[paper](https://arxiv.org/pdf/1908.08530.pdf)] [[code](https://github.com/jackroos/VL-BERT)]
+
+## Dataset
+
+![application](pics/application.png)
+
+| Important Dataset | Year | Task | 
+| -------- | -------- | -------- |
+|[20 Newsgroups](http://qwone.com/∼jason/20Newsgroups/)| 1995 | Text Classification, Topic Modeling |
+|[Multi-Domain Sentiment](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/) | 2007 | Sentiment Analysis, Text Classification|
+|[Cross-Lingual Sentiment](https://zenodo.org/record/3251672)| 2010 | Cross-Lingual Sentiment Analysis
+|[Office](https://faculty.cc.gatech.edu/~judy/domainadapt/)+[Caltech](https://www.vision.caltech.edu/datasets/)|2010| Object Recognition, Image Classification|
+|[Multilingual Reuters Collection](https://archive.ics.uci.edu/dataset/259/reuters+rcv1+rcv2+multilingual+multiview+text+categorization+test+collection)|2013|Multilingual Classification, Sentiment Analysis|
+|[NUS-WIDE](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html)+[ImageNet](https://www.image-net.org/)|2015|Image Classification|
+|[Office-Home](https://www.hemanthdv.org/officeHomeDataset.html)| 2017 | Object Recognition, Image Classification|
+|[Multilingual Amazon Reviews](https://registry.opendata.aws/amazon-reviews-ml/)|2020|Multilingual Sentiment Analysis, Text Classification|
+
+For more detailed information, please read our survey: [**A survey of Heterogeneous Transfer Learning**](https://arxiv.org/abs/2310.08459). 
 
 For general **Transfer Learning** Papers, Tutorials, and Surveys, please check Dr. Jindong Wang's [Transfer Learning Repo](https://github.com/jindongwang/transferlearning). 
