@@ -26,7 +26,7 @@ If you find this resource helpful, please consider to star this repository and c
 2. <u>HTLIC</u>:**"Heterogeneous transfer learning for image classification."**. Zhu, Yin, et al. Proceedings of the AAAI conference on artificial intelligence. Vol. 25. No. 1. 2011. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/8090)]
 3. <u>DHTL</u>:**"Deep semantic mapping for heterogeneous multimedia transfer learning using co-occurrence data."**. Zhao, Liang, et al. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 15.1s (2019): 1-21. [[paper](https://dl.acm.org/doi/pdf/10.1145/3241055)]
 4. <u>OHKT</u>:**"Online heterogeneous transfer learning by knowledge transition."**. Wu, Hanrui, et al.  ACM Transactions on Intelligent Systems and Technology (TIST) 10.3 (2019): 1-19. [[paper](https://dl.acm.org/doi/pdf/10.1145/3309537?casa_token=TSYjMZc5xMgAAAAA:j_mGkzlRAPd7yO7SQ_A1bvUyuLjPp1kKa3wt88ssot8OLiZsCgVBJwUklApJVdkjCqzrQlNrf67M)]
-5. <u></u>:**"Online heterogeneous transfer by hedge ensemble of offline and online decisions."**. Yan, Yuguang, et al.  IEEE transactions on neural networks and learning systems 29.7 (2017): 3252-3263. [[paper](https://ieeexplore.ieee.org/document/8064213)]
+5. <u>OHT</u>:**"Online heterogeneous transfer by hedge ensemble of offline and online decisions."**. Yan, Yuguang, et al.  IEEE transactions on neural networks and learning systems 29.7 (2017): 3252-3263. [[paper](https://ieeexplore.ieee.org/document/8064213)]
 
 ### Feature Representation-based Method
 
@@ -49,7 +49,7 @@ If you find this resource helpful, please consider to star this repository and c
 13. <u>HANDA</u>:**"Heterogeneous domain adaptation with adversarial neural representation learning: experiments on e-commerce and cybersecurity."**. Ebrahimi, Mohammadreza, et al. IEEE Transactions on Pattern Analysis and Machine Intelligence 45.2 (2022): 1862-1875. [[paper](https://ieeexplore.ieee.org/document/9744510)] [[code](https://github.com/mohammadrezaebrahimi/handa)]
 14. <u>FSR</u>:**"Transfer learning across feature-rich heterogeneous feature spaces via feature-space remapping (FSR)."**. Feuz, Kyle D., and Diane J. Cook.  ACM transactions on intelligent systems and technology (TIST) 6.1 (2015): 1-27. [[paper](https://dl.acm.org/doi/pdf/10.1145/2629528?casa_token=Y50Nwq7bQZEAAAAA:TI1BbVy-A9wM_gJs1uwl5e31YwYb0nSD2bjn4BhWeyFv01XVkywDeL9Ki6tQM2BClA5qquMzaRYE)]
 15. <u>SSKMDA</u>:**"Feature space independent semi-supervised domain adaptation via kernel matching."**. Xiao, Min, and Yuhong Guo. IEEE transactions on pattern analysis and machine intelligence 37.1 (2014): 54-66. [[paper](https://ieeexplore.ieee.org/document/6866177)]
-16. <u></u>:**"Transfer neural trees for heterogeneous domain adaptation."** Chen, Wei-Yu, et al. ECCV 2016. [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_25)] [[code](https://github.com/wyharveychen/TransferNeuralTrees)]
+16. <u>TNT</u>:**"Transfer neural trees for heterogeneous domain adaptation."** Chen, Wei-Yu, et al. ECCV 2016. [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46454-1_25)] [[code](https://github.com/wyharveychen/TransferNeuralTrees)]
 
 #### Feature-augmentation
 
