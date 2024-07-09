@@ -1,16 +1,16 @@
 # Heterogeneous-Transfer-Learning
-This is a comprehensive list of **Heterogeneous Transfer Learning Methods** with corresponding resources such as research papers, code, and datasets. Please feel free to contact us at YIS108@pitt.edu if you discover any errors or have any suggestions.
+This is a comprehensive list of **Heterogeneous Transfer Learning Methods** with corresponding resources such as research papers, code, and datasets. Please feel free to contact us at YIS108@pitt.edu or YEY5@pitt.edu if you discover any errors or have any suggestions.
 
-🌟 The organization of papers aligns with our survey: [**A survey of Heterogeneous Transfer Learning**](https://arxiv.org/abs/2310.08459). 
+🌟 The organization of papers aligns with our survey: [**A Recent Survey on Heterogeneous Transfer Learning**](https://arxiv.org/abs/2310.08459). 
 
-![structure](pics/structure.jpg)
+![structure](pics/SurveyPics_overall.jpg)
 
 If you find this resource helpful, please consider to star this repository and cite our survey paper:
 
 ```
 @article{bao2023survey,
-  title={A Survey of Heterogeneous Transfer Learning}, 
-  author={Runxue Bao and Yiming Sun and Yuhe Gao and Jindong Wang and Qiang Yang and Haifeng Chen and Zhi-Hong Mao and Ye Ye},
+  title={A Recent Survey on Heterogeneous Transfer Learning},
+  author={Bao, Runxue and Sun, Yiming and Gao, Yuhe and Wang, Jindong and Yang, Qiang and Mao, Zhi-Hong and Ye, Ye},
   journal={arXiv preprint arXiv:2310.08459},
   year={2023}
 }
@@ -32,7 +32,7 @@ If you find this resource helpful, please consider to star this repository and c
 
 #### Feature-mapping
 
-![feature-mapping](pics/feature_mapping.jpg)
+![feature-mapping](pics/feature_mapping_separate.jpg)
 
 1. <u>CDLS</u>:**"Learning cross-domain landmarks for heterogeneous domain adaptation."**. Tsai, Yao-Hung Hubert, Yi-Ren Yeh, and Yu-Chiang Frank Wang. Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Tsai_Learning_Cross-Domain_Landmarks_CVPR_2016_paper.pdf)] [[code](https://github.com/yaohungt/Cross-Domain-Landmarks-Selection-CDLS-/tree/master)]
 2. <u>SHDA-RF</u>:**"Supervised Heterogeneous Domain Adaptation via Random Forests."**. Sukhija, Sanatan, Narayanan Chatapuram Krishnan, and Gurkanwal Singh.  IJCAI. 2016. [[paper](https://www.ijcai.org/Proceedings/16/Papers/291.pdf)]
@@ -53,7 +53,7 @@ If you find this resource helpful, please consider to star this repository and c
 
 #### Feature-augmentation
 
-![feature-augmentation](pics/feature_aug.jpg)
+![feature-augmentation](pics/feature_augmentation.jpg)
 
 1. <u>SHFA</u>:**"Learning with augmented features for supervised and semi-supervised heterogeneous domain adaptation."** Li, Wen, et al. IEEE Transactions on Pattern analysis and machine intelligence 36.6 (2013): 1134-1148. [[paper](https://wenli-vision.github.io/papers/PAMI_SHFA.pdf)] [[code](https://github.com/wenli-vision/SHFA_release)]
 2. <u>DCA</u>:**"Learning Discriminative Correlation Subspace for Heterogeneous Domain Adaptation."** Yan, Yuguang, et al. IJCAI. 2017. [[paper](https://tanmingkui.github.io/files/publications/Learning_Discriminative.pdf)]
@@ -67,14 +67,14 @@ If you find this resource helpful, please consider to star this repository and c
 
 ### Parameter Regularization Method
 
-![parameter-regularization](pics/para_regularization.jpg)
+![parameter-regularization](pics/parameter_regularization.jpg)
 
 1. <u>REFORM</u>:**"Heterogeneous few-shot model rectification with semantic mapping."** Ye, Han-Jia, et al. IEEE Transactions on Pattern Analysis and Machine Intelligence 43.11 (2020): 3878-3891. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9093972&casa_token=ntHjVN_3ST8AAAAA:RW8H5UKbjeHab0tLcA-zH07itD6YTWTQI4W5qRuEqPVRUlBGCNwYOnVhQHgIHaFOZzsb56Pt)]
 2. <u>DTNs</u>:**"Weakly-shared deep transfer networks for heterogeneous-domain knowledge propagation."** Shu, Xiangbo, et al. Proceedings of the 23rd ACM international conference on Multimedia. 2015. [[paper](https://dl.acm.org/doi/pdf/10.1145/2733373.2806216?casa_token=zk3GWONST48AAAAA:R_Q7DDykxjvm4V9XIKz58TIEXIpUsISQKAuoTOW9UkDfVGgOFQnAaC9Vf5ezKpPqiOsy8MgkAyBx)]
 
 ### Parameter Tuning Method
 
-![parameter-tuning](pics/para_finetune.jpg)
+![parameter-tuning](pics/Para_tuning.jpg)
 
 1. <u>resizer</u>:**"Learning to resize images for computer vision tasks."** Talebi, Hossein, and Peyman Milanfar. Proceedings of the IEEE/CVF international conference on computer vision. 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Talebi_Learning_To_Resize_Images_for_Computer_Vision_Tasks_ICCV_2021_paper.pdf)] [[code](https://github.com/sayakpaul/Learnable-Image-Resizing)]
 2. <u>ImageBERT</u>:**"ImageBERT: Cross-modal pre-training with large-scale weak-supervised image-text data."** Qi, Di, et al.  arXiv preprint arXiv:2001.07966 (2020). [[paper](https://arxiv.org/pdf/2001.07966.pdf)]
