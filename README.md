@@ -53,7 +53,7 @@ If you find this resource helpful, please consider to star this repository and c
 
 #### Feature-augmentation
 
-![feature-augmentation](pics/feature_augmentation.jpg)
+![feature-augmentation](pics/Feature_augmentation.jpg)
 
 1. <u>SHFA</u>:**"Learning with augmented features for supervised and semi-supervised heterogeneous domain adaptation."** Li, Wen, et al. IEEE Transactions on Pattern analysis and machine intelligence 36.6 (2013): 1134-1148. [[paper](https://wenli-vision.github.io/papers/PAMI_SHFA.pdf)] [[code](https://github.com/wenli-vision/SHFA_release)]
 2. <u>DCA</u>:**"Learning Discriminative Correlation Subspace for Heterogeneous Domain Adaptation."** Yan, Yuguang, et al. IJCAI. 2017. [[paper](https://tanmingkui.github.io/files/publications/Learning_Discriminative.pdf)]
