@@ -3,7 +3,7 @@ This is a comprehensive list of **Heterogeneous Transfer Learning Methods** with
 
 🌟 The organization of papers aligns with our survey: [**A Recent Survey on Heterogeneous Transfer Learning**](https://arxiv.org/abs/2310.08459). 
 
-![structure](pics/SurveyPic_overall.jpg)
+![structure](pics/surveyPic_overall.jpg)
 
 If you find this resource helpful, please consider to star this repository and cite our survey paper:
 
