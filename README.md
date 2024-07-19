@@ -5,16 +5,9 @@ This is a comprehensive list of **Heterogeneous Transfer Learning Methods** with
 
 ![structure](pics/surveyPic_overall.jpg)
 
-If you find this resource helpful, please consider to star this repository and cite our survey paper:
+If you find this resource helpful, please consider to star this repository and cite our survey paper.
 
-```
-@article{bao2023survey,
-  title={A Recent Survey on Heterogeneous Transfer Learning},
-  author={Bao, Runxue and Sun, Yiming and Gao, Yuhe and Wang, Jindong and Yang, Qiang and Mao, Zhi-Hong and Ye, Ye},
-  journal={arXiv preprint arXiv:2310.08459},
-  year={2023}
-}
-```
+
 
 ## Data-based Method
 
