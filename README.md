@@ -90,6 +90,6 @@ This is a comprehensive list of **Heterogeneous Transfer Learning Methods** with
 |[Office-Home](https://www.hemanthdv.org/officeHomeDataset.html)| 2017 | Object Recognition, Image Classification|
 |[Multilingual Amazon Reviews](https://registry.opendata.aws/amazon-reviews-ml/)|2020|Multilingual Sentiment Analysis, Text Classification|
 
-For more detailed information, please read our survey: [**A survey of Heterogeneous Transfer Learning**](https://arxiv.org/abs/2310.08459). 
+For more detailed information, please read our survey: [**A Recent Survey on Heterogeneous Transfer Learning**](https://arxiv.org/abs/2310.08459). 
 
 For general **Transfer Learning** Papers, Tutorials, and Surveys, please check Dr. Jindong Wang's [Transfer Learning Repo](https://github.com/jindongwang/transferlearning). 
